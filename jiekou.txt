@@ -1,3 +1,4 @@
+//  当前接口：http://肥猫.com/
 {
   "wallpaper" : "https://深色壁纸.xxooo.cf/",
   "lives" : [ {
@@ -705,3 +706,4 @@
 备忘
 高亮
 解释
+
