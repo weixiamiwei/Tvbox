@@ -25,23 +25,16 @@ http://r.jdshipin.com/CkuBd
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #Chinese 
 https://iptv-org.github.io/iptv/languages/zho.m3u
-
 #English 
 https://iptv-org.github.io/iptv/languages/eng.m3u
-
 #Japanse
 https://iptv-org.github.io/iptv/languages/jpn.m3u
-
-
 #Cooking
 https://iptv-org.github.io/iptv/categories/cooking.m3u
-
 #Culture
 https://iptv-org.github.io/iptv/categories/culture.m3u
-
 #Sport
 https://iptv-org.github.io/iptv/categories/sports.m3u
-
 #Adult
 https://iptv-org.github.io/iptv/categories/xxx.m3u
 http://adultiptv.net/chs.m3u
@@ -165,4 +158,5 @@ https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=ed3234b71757417988
 http://stream.snrtv.com/sxbc-star-vyLSZ8.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+
 
